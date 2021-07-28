@@ -15,9 +15,8 @@
 </head>
 
 <body>
-
-				Bem-vindo !
-				<label>MICHEL PEREIRA</label>
+	Bem-vindo ! Em Manutenção... :)
+	<label>MICHEL PEREIRA</label>
 
 </body>
 
